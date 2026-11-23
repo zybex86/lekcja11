@@ -1,0 +1,17 @@
+body {
+    background-color: darkolivegreen;
+}
+/* TODO: dodaj style dla formularza i wyniku */
+form {
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#result {
+    background-color: lightgray;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
